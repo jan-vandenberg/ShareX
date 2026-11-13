@@ -1527,7 +1527,7 @@ Gelieve een andere sneltoets te selecteren of sluit het conflicterende programma
     <value>Achtergrondverwijderaar...</value>
   </data>
   <data name="MainMenuBuilder_BorderlessWindow" xml:space="preserve">
-    <value>Raamloos venster</value>
+    <value>Randloos venster</value>
   </data>
   <data name="MainMenuBuilder_Capture" xml:space="preserve">
     <value>Vastleggen</value>
